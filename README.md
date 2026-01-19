@@ -56,14 +56,8 @@ LCD output, keypad input, and timer behavior were verified.
 1. Open project in **MPLAB X IDE**
 2. Select **PIC16F877A** and **Simulator**
 3. Build using **XC8 compiler**
-4. Load HEX file into PICSimLab (optional)
+4. Load HEX file into PICSimLab 
 5. Run simulation
-
----
-
-## 📄 Documentation
-- Project Report (PDF)
-- Project Presentation (PPT)
 
 ---
 
@@ -75,5 +69,3 @@ BS IIT MADRAS
 
 ---
 
-## 📌 Note
-This project was completed independently for learning and academic purposes.
